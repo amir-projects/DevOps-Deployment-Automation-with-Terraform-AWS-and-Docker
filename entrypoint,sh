@@ -1,5 +1,3 @@
-#NGINX proxy entrypoint.sh
-
 #!/bin/sh
 
 set -e
